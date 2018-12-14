@@ -1,0 +1,17 @@
+﻿Build started 24/12/2017 18:34:58.
+     1>Project "C:\Users\Albertus Heronius\Documents\Visual Studio 2010\Projects\tic tac toe\jan\jan.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\jan.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         jan.vcxproj -> C:\Users\Albertus Heronius\Documents\Visual Studio 2010\Projects\tic tac toe\Debug\jan.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\jan.unsuccessfulbuild".
+         Touching "Debug\jan.lastbuildstate".
+     1>Done Building Project "C:\Users\Albertus Heronius\Documents\Visual Studio 2010\Projects\tic tac toe\jan\jan.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09
